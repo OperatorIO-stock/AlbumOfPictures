@@ -12,3 +12,4 @@
 /home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.pdb
 /home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.genruntimeconfig.cache
 /home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/ref/AlbumOfPictures.dll
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.sourcelink.json
