@@ -14,7 +14,7 @@ namespace AlbumOfPictures
             int maxImagesInRow = 3;
 
             int rowsFilled = images / maxImagesInRow;
-            float imagesRemains = images % maxImagesInRow;
+            float imagesRemains = images & maxImagesInRow;
 
             Console.WriteLine($"Количество заполненных рядов: {rowsFilled}\n" +
                               $"Сверх мера картинок: {imagesRemains}");
