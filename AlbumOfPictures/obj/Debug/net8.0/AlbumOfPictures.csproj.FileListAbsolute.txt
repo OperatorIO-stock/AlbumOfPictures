@@ -1,0 +1,14 @@
+/home/casper/Документы/me_Codes/AlbumOfPictures/bin/Debug/net8.0/AlbumOfPictures
+/home/casper/Документы/me_Codes/AlbumOfPictures/bin/Debug/net8.0/AlbumOfPictures.deps.json
+/home/casper/Документы/me_Codes/AlbumOfPictures/bin/Debug/net8.0/AlbumOfPictures.runtimeconfig.json
+/home/casper/Документы/me_Codes/AlbumOfPictures/bin/Debug/net8.0/AlbumOfPictures.dll
+/home/casper/Документы/me_Codes/AlbumOfPictures/bin/Debug/net8.0/AlbumOfPictures.pdb
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.GeneratedMSBuildEditorConfig.editorconfig
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.AssemblyInfoInputs.cache
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.AssemblyInfo.cs
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.csproj.CoreCompileInputs.cache
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.dll
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/refint/AlbumOfPictures.dll
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.pdb
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/AlbumOfPictures.genruntimeconfig.cache
+/home/casper/Документы/me_Codes/AlbumOfPictures/obj/Debug/net8.0/ref/AlbumOfPictures.dll
